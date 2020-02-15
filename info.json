@@ -1,0 +1,10 @@
+{
+    "name": "HydroK",
+    "version": "1.0",
+    "changelog": {
+        "1.0": {
+            "date": "18/11/19",
+            "changes": ["Added Changelog System"]
+        }
+    }
+}
